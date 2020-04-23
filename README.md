@@ -1,4 +1,5 @@
 在线生成RSA密钥的链接：http://www.bm8.com.cn/webtool/rsa/
+RSA加密传输，前端html、后端java使用参看：https://www.cnblogs.com/zhaoyihao/p/5345784.html
 
 ### 1.`wx_rsa`版RSA加密,详情查看:https://github.com/UFO0001/WX_RSA
 
