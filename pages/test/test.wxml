@@ -1,2 +1,4 @@
 <!--pages/test/test.wxml-->
-<text>pages/test/test.wxml</text>
+<text>wx_rsa版可在app.json中试用index页面打开!</text>
+
+<text>看打印,好用的话记得点赞!</text>
